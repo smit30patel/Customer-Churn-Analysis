@@ -1,7 +1,7 @@
 # 📊 Customer Segmentation & Churn Prediction  
 **End-to-End Data Analytics & Machine Learning Project**
 
-![Hero Banner](assets/hero_banner-2.png)  
+![Hero Banner](assets/hero-banner-2.png)  
 *Description: A high-level visual representing customer analytics, segmentation, and churn prediction in an online retail business.*
 
 [![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
