@@ -1,7 +1,7 @@
 # 📊 Customer Segmentation & Churn Prediction  
 **End-to-End Data Analytics & Machine Learning Project**
 
-![Hero Banner](assets/hero_banner.png)  
+![Hero Banner](assets/hero_banner-2.png)  
 *Description: A high-level visual representing customer analytics, segmentation, and churn prediction in an online retail business.*
 
 [![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
@@ -32,7 +32,7 @@ This project answers two critical business questions:
 
 ## 🏗️ End-to-End Architecture
 
-![Architecture Diagram](assets/architecture_diagram.png)  
+![Architecture Diagram](assets/architecture.png)  
 *Description: End-to-end data pipeline showing the flow from raw data ingestion to machine learning models and business dashboards.*
 
 ---
@@ -53,7 +53,7 @@ This project answers two critical business questions:
 
 ### 2️⃣ Customer Segmentation (RFM + K-Means)
 
-![RFM Segmentation](assets/rfm_segmentation.png)  
+![RFM Segmentation](assets/rfm-segmentation.png)  
 *Description: Visualization of customer clusters formed using RFM metrics and K-Means clustering.*
 
 **RFM Metrics**
@@ -65,7 +65,7 @@ This project answers two critical business questions:
 
 ### 3️⃣ Churn Prediction (Machine Learning)
 
-![Model Performance](assets/model_performance.png)  
+![Model Performance](assets/model-performemce.png)  
 *Description: Comparison of machine learning models using metrics such as Accuracy, Recall, and ROC-AUC.*
 
 **Models Implemented**
@@ -77,7 +77,7 @@ This project answers two critical business questions:
 
 ## 📈 Power BI Dashboard
 
-![Dashboard Overview](assets/dashboard_overview.png)  
+![Dashboard Overview](assets/dashboard_img.png)  
 *Description: Interactive Power BI dashboard displaying sales KPIs, customer segments, and churn risk indicators.*
 
 ---
@@ -105,5 +105,5 @@ This project answers two critical business questions:
 
 ## 👤 Author
 
-**Your Name**  
-📧 Email | 🔗 LinkedIn | 💻 GitHub  
+**Smit Patel**  
+📧 smitpatel30071@gmail.com | 🔗 LinkedIn | 💻 GitHub  
